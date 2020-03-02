@@ -1,4 +1,4 @@
-# go deploy AZ104
+# go deploy AZ-104
 
 This repository is a collection of setup scripts for go deploy AZ-104 labs. They compliment the lab exercises for the go deploy platform and are not designed to be used in a stand alone environment.
 
