@@ -1,8 +1,8 @@
 cd $home
 
-git clone https://github.com/kramit/AZ103-Notes.git
+git clone https://github.com/godeploy/AZ104.git
 
-cd ./AZ103-Notes/templates/mod6test
+cd ./AZ104/Module06
 
 git pull
 

@@ -23,7 +23,7 @@ New-AzResourceGroupDeployment -ResourceGroupName $rgNames[2] -TemplateFile $pwd/
 
 Get-Job | select Name, Command
 
-Write-Host "Deploying resources to 'az104-06-rg01','az104-06-rg2','az104-06-rg3' "
+Write-Host "Deploying resources to 'az104-06-rg1','az104-06-rg2','az104-06-rg3' "
 Write-Host "The deployment of the resources may take 5-15 minutes you can check the status of the deployment in the Azure Portal. "
 
 
