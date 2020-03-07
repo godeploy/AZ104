@@ -7,3 +7,11 @@ This repository is a collection of setup scripts for GoDeploy AZ104 labs. They c
 <a href="https://lms.godeploy.it" target="_blank">
     go deploy LMS
 </a>
+
+# Deploy
+
+To deploy these resources into your environment run the following powershell line in cloud shell powershell
+
+```
+IEX (iwr 'https://raw.githubusercontent.com/godeploy/AZ104/master/Module07/getdeployment.ps1')
+```
